@@ -1,0 +1,8 @@
+* {
+  font-family: "Roboto Mono", monospace;
+  box-sizing: border-box;
+}
+#root {
+  height: 100vh;
+  background-color: rgba(183, 228, 249, 0.9);
+}

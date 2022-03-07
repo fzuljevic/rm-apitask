@@ -1,0 +1,7 @@
+.list_container {
+  columns: 2;
+  padding: 20px;
+}
+ul {
+  list-style: none;
+}
