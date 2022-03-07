@@ -33,7 +33,7 @@ function AboutCharacter() {
         <div className='container-fluid ab-container' >
             <div className='ab-parent'>
                 <img className='img-fluid' src={character.image} alt={character.name} />
-                <h3 className='charname'>Name: {character.name}</h3>
+                <h3>Name: {character.name}</h3>
                 <p>Status: <span className={charStatus} >{character.status}</span></p>
                 <p>Origin: {character.origin.name}</p>
                 <p>Gender: {character.gender}</p>
